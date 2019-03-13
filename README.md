@@ -1,6 +1,9 @@
 # cython numpy array and python list example
 Basic Cython example, list and numpy manipulation
 
+[![codebeat badge](https://codebeat.co/badges/bb453a20-3e14-4487-96f9-3041db493978)](https://codebeat.co/projects/github-com-cftang0827-cython_example-master)
+
+
 
 Build cython process
 1. Using setup.py script to compile --> success in Linux, MacOS and Windows [cython setup py exmaple]
